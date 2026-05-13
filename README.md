@@ -180,7 +180,7 @@ Potential future upgrades:
 
 # Author
 
-Carlos Owens
+Carlos Owens,
 Computer Science Student at Kennesaw State University
 
 Menu driven application design
